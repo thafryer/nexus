@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text creates a h1 with Hey 1`] = `"<h1>Hey</h1>;"`;
+
+exports[`Text creates a h2 with Bye 1`] = `"<h2>Bye</h2>;"`;
